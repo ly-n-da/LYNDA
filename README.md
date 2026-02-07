@@ -2,21 +2,26 @@
 
 <h1>✨ Lynda | Machine Vision Developer ✨</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=700&lines=Machine+Vision+%26+Computer+Vision;Deep+Learning+%7C+Industrial+AI;OCR+%7C+Arabic+Text+Recognition;Turning+Images+Into+Decisions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=700&lines=Machine+Vision+%26+Industrial+AI;Deep+Learning+%7C+OCR+%26+Text+Detection;Turning+Images+Into+Intelligence" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Focus-Industrial%20Vision-0A66C2?style=for-the-badge">
-<img src="https://img.shields.io/badge/AI-Deep%20Learning-8E44AD?style=for-the-badge">
-<img src="https://img.shields.io/badge/Python-Computer%20Vision-F1C40F?style=for-the-badge">
+<!-- Badges -->
+<p>
+  <img src="https://img.shields.io/badge/Computer%20Vision-Expert-2E4053?style=flat-square">
+  <img src="https://img.shields.io/badge/Machine%20Vision-Industrial-2E4053?style=flat-square">
+  <img src="https://img.shields.io/badge/Deep%20Learning-CNN%7CLSTM-2E4053?style=flat-square">
+  <img src="https://img.shields.io/badge/Python-OpenCV-F1C40F?style=flat-square">
+</p>
 
-<br><br>
+<br>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="55"/>
+<!-- Tech Icons -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/>
 
 </div>
 
@@ -26,7 +31,7 @@
 
 <p>
 I am a <b>Machine Vision Developer</b> passionate about building intelligent systems that 
-<b>inspect, detect, recognize, and decide</b> using images.
+<b>inspect, detect, recognize, and make decisions</b> using images.
 </p>
 
 <p>
@@ -56,11 +61,11 @@ My work focuses on <b>industrial automation</b>, <b>deep learning</b>, and
     <td>Python, C++, SQL</td>
   </tr>
   <tr>
-    <td><b>Vision</b></td>
+    <td><b>Computer Vision</b></td>
     <td>OpenCV, HALCON, Industrial Vision Systems</td>
   </tr>
   <tr>
-    <td><b>AI / DL</b></td>
+    <td><b>AI / Deep Learning</b></td>
     <td>TensorFlow, PyTorch, CNN, LSTM</td>
   </tr>
   <tr>
@@ -86,15 +91,14 @@ My work focuses on <b>industrial automation</b>, <b>deep learning</b>, and
 
 <hr>
 
-<h2>📊 GitHub Analytics</h2>
+<h2>📊 GitHub Stats</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lynda&show_icons=true&theme=radical&hide_border=true" />
-
+<!-- Dark industrial streak + profile -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lyndalili&theme=dark&hide_border=true" />
 <br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynda&layout=compact&theme=radical&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lyndalili&theme=github_dark" />
 
 </div>
 
