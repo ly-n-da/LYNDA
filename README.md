@@ -90,11 +90,11 @@ My work focuses on <b>industrial automation</b>, <b>deep learning</b>, and
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=lynda&show_icons=true&theme=radical&hide_border=true" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynda&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
